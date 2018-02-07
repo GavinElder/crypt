@@ -1,5 +1,5 @@
 before_install:
 - brew install make
-script:make
+script: /package/make
 os:
   - osx
